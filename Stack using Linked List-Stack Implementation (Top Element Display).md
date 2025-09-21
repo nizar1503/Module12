@@ -22,8 +22,23 @@ The program allows inserting 3 elements from the user and then prints the **top 
 ---
 
 ## 💻 Program
-Add Code Here
-
+```
+stack = []
+for i in range(3):
+    value = input(f"Enter element {i+1}: ")
+    stack.append(value)
+if stack:
+    print("\nTop element of the stack is:", stack[-1])
+else:
+    print("\nThe stack is empty.")
+```
 ## Output
+```
+Enter element 1: Apple
+Enter element 2: Banana
+Enter element 3: Cherry
 
+Top element of the stack is: Cherry
+```
 ## Result
+Hence Stack implementation and retrieving the top element is done.
