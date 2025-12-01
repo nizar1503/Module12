@@ -42,13 +42,7 @@ for index in range(len(stack)):
     print(f"Index {index}: {stack[index]}")
 ```
 ## Sample Input & Output
-```
-Initial stack: ['a', 'b', 'c']
+<img width="601" height="162" alt="image" src="https://github.com/user-attachments/assets/c8498902-0d41-49f5-8361-7911ac1c59ac" />
 
-Index and Values in the stack:
-Index 0: a
-Index 1: b
-Index 2: c
-```
 ## Result
 Hence  Checked and Printed the Index Value of the Elements Stored in the Stack.
