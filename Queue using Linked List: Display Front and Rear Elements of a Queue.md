@@ -43,11 +43,6 @@ print("Front element of the queue:", front)
 print("Rear element of the queue:", rear)
 ```
 ## Output
-```
-Initial Queue:
-['a', 'b', 'c', 'd']
-Front element of the queue: a
-Rear element of the queue: d
-```
+<img width="1171" height="265" alt="image" src="https://github.com/user-attachments/assets/5807e946-3694-4699-857d-7390fedfcc16" />
 ## Result
 Hence Displayed Front and Rear Elements of a Queue
