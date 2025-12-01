@@ -42,8 +42,6 @@ else:
 ```
 
 ## Output
-```
-Stack is not full
-```
+<img width="292" height="117" alt="image" src="https://github.com/user-attachments/assets/53836b0c-f64a-4e9a-9a44-e27ab0fe83c8" />
 ## Result
 Hence Checked and Displayed Whether the Stack is Full or Not
