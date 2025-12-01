@@ -46,14 +46,7 @@ print(queue)
 ```
 
 ## Output
-```
-Queue after elements are inserted:
-['a', 'b', 'c']
-Deleting the first element inserted:
-a
-Queue after the first element is deleted:
-['b', 'c']
+<img width="1062" height="270" alt="image" src="https://github.com/user-attachments/assets/bd116308-2f04-481d-b682-e5270d133edc" />
 
-```
 ## Result
 Hence performed functions on queue.
