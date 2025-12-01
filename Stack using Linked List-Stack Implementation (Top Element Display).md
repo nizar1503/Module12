@@ -33,12 +33,6 @@ else:
     print("\nThe stack is empty.")
 ```
 ## Output
-```
-Enter element 1: Apple
-Enter element 2: Banana
-Enter element 3: Cherry
-
-Top element of the stack is: Cherry
-```
+<img width="546" height="177" alt="image" src="https://github.com/user-attachments/assets/4ce98ba1-a85b-4fd3-a3f5-afcf3c7ba084" />
 ## Result
 Hence Stack implementation and retrieving the top element is done.
